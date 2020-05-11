@@ -15,4 +15,4 @@ Dataset from Kaggle's 'Give Me Some Credit' competition.
 
 Predicting whether someone will experience serious delinquency or not within the next two years 
 
-<br/> Results of Log Model
+<br/> Results of Log Model:
